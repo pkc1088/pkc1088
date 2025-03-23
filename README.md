@@ -6,5 +6,6 @@
 <div align="center">
   <br>
   Majoring in Computer Science Engineering at Pusan National University <br><br>
-  Interested in backend technologies and AI programming 
+  Interested in repurposing useful services using APIs <br><br>
+  Also keen on utilizing backend and AI technologies as tools to achieve this <br><br>
 </div>
