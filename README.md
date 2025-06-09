@@ -22,7 +22,7 @@
 
   <p>
     🌐 Always open to collaborating on meaningful open-source projects<br>
-    🛠️ Currently focused on: <code>Spring Boot</code>, <code>OAuth2</code>, <code>YouTube API</code>, <code>PyTorch</code>
+    🛠️ Currently focused on: <code>Spring Boot</code>, <code>OAuth2</code>, <code>Cloud Run & related Services</code>, <code>Multi-Modal</code>
   </p>
 
 </div>
