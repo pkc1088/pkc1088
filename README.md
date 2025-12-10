@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- GitHub & Solved.ac Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkc1088&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pkc1088&layout=compact&theme=radical" alt="Top Langs">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pkc1088" alt="Solved.ac Profile">
 </div>  
 
@@ -15,14 +15,14 @@
   </p>
 
   <p>
-    ⚙️ I enjoy building <strong>practical services using APIs</strong><br>
+    ⚙️ I enjoy building <strong>practical services</strong> that systematically resolve user challenges<br>
     🧠 Exploring <strong>Backend systems</strong> and <strong>AI applications</strong> as tools for real-world impact<br>
-    🚀 Passionate about <strong>automation, data-driven insight, and service resilience</strong>
+    🚀 Passionate about <strong>automation, data-driven insight, and service resilience</strong><br>
+    🌐 Always open to collaborating on meaningful open-source projects
   </p>
 
   <p>
-    🌐 Always open to collaborating on meaningful open-source projects<br>
-    🛠️ Currently focused on: <code>Spring Boot</code>, <code>OAuth2</code>, <code>Cloud Run & related Services</code>, <code>Multi-Modal</code>
+    🛠️ Currently focused on: <code>FixMyPlaylist</code> service
   </p>
 
 </div>
