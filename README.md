@@ -1,6 +1,4 @@
 <div align="center">
-
-  <!-- GitHub & Solved.ac Stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pkc1088&layout=compact&theme=radical" alt="Top Langs">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pkc1088" alt="Solved.ac Profile">
 </div>  
@@ -8,21 +6,25 @@
 ---
 
 <div align="left">
-  <h3>👋 Hi, I'm Pyeon</h3>
+  <h3>Hi, I'm Pyeon</h3>
   <p>
-    Majoring in <strong>Computer Science Engineering</strong> at
-    <a href="https://www.pusan.ac.kr/eng/Main.do" target="_blank">Pusan National University</a>
+    Backend developer focused on building reliable services that solve real user problems.
   </p>
-
   <p>
-    ⚙️ I enjoy building <strong>practical services</strong> that systematically resolve user challenges<br>
-    🧠 Exploring <strong>Backend systems</strong> and <strong>AI applications</strong> as tools for real-world impact<br>
-    🚀 Passionate about <strong>automation, data-driven insight, and service resilience</strong><br>
-    🌐 Always open to collaborating on meaningful open-source projects
+    Creator and operator of <strong><a href="https://www.fixmyplaylist.com" target="_blank">FixMyPlaylist</a></strong>, a managed service that automatically tracks and recovers unavailable YouTube music videos.
   </p>
-
   <p>
-    🛠️ Currently focused on: <code>FixMyPlaylist</code> service
+    <strong>Service Impact</strong><br>
+    • <strong>Users from 8 countries</strong><br>
+    • <strong>13+ months in production</strong><br>
+    • <strong>30,000+ music metadata checks per day</strong><br>
+    • <strong>1,000+ automated recovery & cleanup operations</strong><br>
+    • <strong>100% recovery pipeline completion rate (0% event loss)</strong><br>
+    • <strong>97% candidate matching accuracy</strong><br>
+    • <strong>Passed 5 Google policy & security reviews</strong><br>
+    • <strong>Securing a 20-fold increase in API quotas</strong><br>
   </p>
-
+  <p>
+    What started as a personal tool has evolved into a production service, and the journey of scaling and maintaining it has strengthened my belief in creating meaningful impact through technology.
+  </p>
 </div>
