@@ -16,8 +16,8 @@
   <p>
     <strong>Service Impact</strong><br>
     • <strong>Users from 8 countries</strong><br>
-    • <strong>13+ months in production</strong><br>
-    • <strong>30,000+ music metadata checks per day</strong><br>
+    • <strong>14+ months in production</strong><br>
+    • <strong>40,000+ music metadata checks per day</strong><br>
     • <strong>1,000+ automated recovery & cleanup operations</strong><br>
     • <strong>100% recovery pipeline completion rate (0% event loss)</strong><br>
     • <strong>97% candidate matching accuracy</strong><br>
