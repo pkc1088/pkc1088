@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pkc1088&layout=compact&theme=radical" alt="Top Langs">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pkc1088" alt="Solved.ac Profile">
-</div>  
-
----
-
 <div align="left">
   <h3>Hi, I'm Pyeon</h3>
   <p>
@@ -16,7 +9,7 @@
   <p>
     <strong>Service Impact</strong><br>
     • <strong>Users from 8 countries</strong><br>
-    • <strong>14+ months in production</strong><br>
+    • <strong>15+ months in production</strong><br>
     • <strong>40,000+ music metadata checks per day</strong><br>
     • <strong>1,000+ automated recovery & cleanup operations</strong><br>
     • <strong>100% recovery pipeline completion rate (0% event loss)</strong><br>
