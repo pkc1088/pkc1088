@@ -9,13 +9,13 @@
   <p>
     <strong>Service Impact</strong><br>
     • <strong>Users from 8 countries</strong><br>
-    • <strong>15+ months in production</strong><br>
-    • <strong>40,000+ music metadata checks per day</strong><br>
+    • <strong>18+ months in production</strong><br>
+    • <strong>50,000+ music metadata checks per day</strong><br>
     • <strong>1,000+ automated recovery & cleanup operations</strong><br>
     • <strong>100% recovery pipeline completion rate (0% event loss)</strong><br>
     • <strong>97% candidate matching accuracy</strong><br>
-    • <strong>Passed 5 Google policy & security reviews</strong><br>
-    • <strong>Securing a 20-fold increase in API quotas</strong><br>
+    • <strong>Passed 7 Google policy & security reviews</strong><br>
+    • <strong>Securing a 45-fold increase in API quotas</strong><br>
   </p>
   <p>
     What started as a personal tool has evolved into a production service, and the journey of scaling and maintaining it has strengthened my belief in creating meaningful impact through technology.
